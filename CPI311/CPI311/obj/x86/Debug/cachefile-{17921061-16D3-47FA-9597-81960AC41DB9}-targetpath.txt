@@ -1,8 +1,0 @@
-Content\Textures\Bomb.xnb
-Content\Textures\Jellyfish.xnb
-Content\Textures\Stripes.xnb
-Content\Fonts\SegoeUI.xnb
-Content\Models\Torus.xnb
-Content\Models\Cube.xnb
-Content\Models\Cube and Torus.xnb
-Content\Models\Sphere.xnb
